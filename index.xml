@@ -1466,16 +1466,6 @@ Liquid::Template.register_tag(&#39;image&#39;, Jekyll::ImageTag)
     </item>
     
     <item>
-      <title>Contato</title>
-      <link>https://matiasvara.github.io/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://matiasvara.github.io/contact/</guid>
-      <description>&lt;p&gt;Me siga em @joaoninguem.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>First snippet</title>
       <link>https://matiasvara.github.io/snippets/first/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1497,16 +1487,6 @@ Liquid::Template.register_tag(&#39;image&#39;, Jekyll::ImageTag)
     </item>
     
     <item>
-      <title>Projetos</title>
-      <link>https://matiasvara.github.io/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://matiasvara.github.io/projects/</guid>
-      <description>&lt;p&gt;Em construção&amp;hellip; Aguarde!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Second snippet</title>
       <link>https://matiasvara.github.io/snippets/second/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1515,16 +1495,6 @@ Liquid::Template.register_tag(&#39;image&#39;, Jekyll::ImageTag)
       <description>&lt;p&gt;This content is in &lt;code&gt;snippets/second/index.md&lt;/code&gt;&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;ls -la
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
-    </item>
-    
-    <item>
-      <title>Sobre Hugo</title>
-      <link>https://matiasvara.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://matiasvara.github.io/about/</guid>
-      <description>&lt;p&gt;Em construção&amp;hellip; Aguarde!&lt;/p&gt;
-</description>
     </item>
     
   </channel>
